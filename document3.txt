@@ -1,0 +1,2 @@
+print("document3")
+print("\n")
